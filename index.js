@@ -76,6 +76,7 @@ function grabFromArray(pageArray, saveto) {
 
 // Module GLOBAL
 module.exports = {
+  IMPORT_TYPE: IMPORT_TYPE,
   options: defaultOptions,
   run: function() {
     switch(module.exports.options.importType) {
