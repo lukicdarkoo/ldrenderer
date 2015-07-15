@@ -1,6 +1,6 @@
 {
   "name": "ldrenderer",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Render single page application for SEO",
   "author": {
     "name": "Darko Lukic",
@@ -12,10 +12,8 @@
     "phantomjs": "*",
     "xml2js": "*"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "ldrenderer@0.0.4",
-  "scripts": {},
-  "_shasum": "b34582be0e69e147161e5ac18208769e3110ccb2",
-  "_from": "frontend\\renderer",
-  "_resolved": "file:frontend\\renderer"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukicdarkoo/ldrenderer.git"
+  }
 }
