@@ -1,0 +1,21 @@
+{
+  "name": "ldrenderer",
+  "version": "0.0.4",
+  "description": "Render single page application for SEO",
+  "author": {
+    "name": "Darko Lukic",
+    "email": "lukicdarkoo@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {
+    "phantomjs": "*",
+    "xml2js": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "ldrenderer@0.0.4",
+  "scripts": {},
+  "_shasum": "b34582be0e69e147161e5ac18208769e3110ccb2",
+  "_from": "frontend\\renderer",
+  "_resolved": "file:frontend\\renderer"
+}
