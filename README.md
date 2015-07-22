@@ -1,5 +1,5 @@
 # ldrenderer
-Simple node module which enables to download and store single page applications for SEO
+Simple node module which download and store rendered pages of single page applications for SEO
 
 ## Sample usage
 	var path = require('path');
